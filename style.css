@@ -1,0 +1,119 @@
+body{
+    max-width: 85%;
+    margin: 0px auto;
+}
+
+.nav{
+    display: flex;
+   background-color: #7c3aed;
+   justify-content: space-between;
+   color: white;
+   padding-left: 1%;
+  padding-right: 7%;
+  border-bottom-left-radius: 1rem;
+}
+
+.nav-items{
+    display: flex;
+    margin: 10px;
+    justify-content: flex-start;
+    
+ 
+}
+
+
+.nav-items >a{
+    padding: 5%;
+    font-weight: bold;
+    text-decoration: none;
+    color: azure;
+    
+}
+
+main section{
+    margin-top: 20px;
+}
+
+section img{
+    max-width: 80%;
+    width: 550px;
+    display: block;
+    margin: auto;
+}
+
+.technologies{
+    background-color: #f3f4f6a8;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem 0;
+    border-radius: 1rem;
+    
+}
+
+.Projects{
+    
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem 0;
+    border-radius: 1rem;
+    
+}
+
+.anch{
+    max-width: 140px;
+    padding: 0.6rem 1.2rem;
+    background-color: #7c3aed;
+    color: #fff;
+    margin: 1rem auto;
+    border-radius: 2rem;
+    text-decoration: none;
+}
+
+.Blogs{
+    background-color: #f3f4f6a8;
+    text-align: center;
+    padding: 2rem;
+    margin: 2rem 0;
+    border-radius: 1rem;  
+}
+
+
+
+.Blogs>a{
+    max-width: 140px;
+    padding: 0.6rem 1.2rem;
+    border-style:solid ;
+    margin: 1rem auto;
+    border-radius: 2rem;
+    text-decoration: none;
+    
+}
+
+.footer{
+    
+    text-align: center;
+    color: white;
+    background-color: #7c3aed;
+    border-radius: 1rem;  
+}
+
+.footer>div{
+    margin-top: 3%;
+   
+}
+
+.me{
+    padding-top: 20px;
+    font-size: x-large;
+}
+
+.Social>a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.lastone{
+    background-color: #3d03a1;
+}
+
